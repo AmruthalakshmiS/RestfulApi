@@ -30,3 +30,7 @@ C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\obj\Debug\n
 C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\obj\Debug\net6.0\EmployeeMgmt.pdb
 C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\obj\Debug\net6.0\EmployeeMgmt.genruntimeconfig.cache
 C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\obj\Debug\net6.0\ref\EmployeeMgmt.dll
+C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amruthals\source\repos\RestfulApi\EmployeeMgmt\EmployeeMgmt\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

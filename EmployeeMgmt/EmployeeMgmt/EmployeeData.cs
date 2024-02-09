@@ -54,7 +54,7 @@ namespace EmployeeMgmt.Data
             {
                 { 1, new Employee { EmployeeId = 1, UserName = "admin", Password = "admin", Role = Employee.Roles.Admin, ManagerId = 0, Leaves = new List<LeaveApplication>() } },
                 { 2, new Employee { EmployeeId = 2, UserName = "manager", Password = "manager", Role = Employee.Roles.Manager, ManagerId = 1, Leaves = new List<LeaveApplication>() } },
-                { 3, new Employee { EmployeeId = 3, UserName = "employee", Password = "employee", Role = Employee.Roles.Employee, ManagerId = 1002, Leaves = new List<LeaveApplication>() } }
+                { 3, new Employee { EmployeeId = 3, UserName = "employee", Password = "employee", Role = Employee.Roles.Employee, ManagerId = 2, Leaves = new List<LeaveApplication>() } }
             };
         }
         public IEnumerable<Employee> GetReportees(int managerId)
